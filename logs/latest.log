@@ -1,0 +1,30 @@
+[00:00:01] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:65327.
+[00:00:01] [Thread-29/INFO]: [RaspberryJuice] Starting output thread!
+[00:00:01] [Thread-28/INFO]: [RaspberryJuice] Starting input thread
+[00:00:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:65327.
+[00:03:46] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50003.
+[00:03:46] [Thread-30/INFO]: [RaspberryJuice] Starting input thread
+[00:03:46] [Thread-31/INFO]: [RaspberryJuice] Starting output thread!
+[00:03:46] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50003.
+[00:04:54] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50067.
+[00:04:54] [Thread-32/INFO]: [RaspberryJuice] Starting input thread
+[00:04:54] [Thread-33/INFO]: [RaspberryJuice] Starting output thread!
+[00:07:23] [Thread-32/INFO]: [RaspberryJuice] Connection reset
+[00:07:23] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50067.
+[00:07:30] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60682.
+[00:07:30] [Thread-34/INFO]: [RaspberryJuice] Starting input thread
+[00:07:30] [Thread-35/INFO]: [RaspberryJuice] Starting output thread!
+[00:07:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60682.
+[00:09:37] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58513.
+[00:09:37] [Thread-36/INFO]: [RaspberryJuice] Starting input thread
+[00:09:37] [Thread-37/INFO]: [RaspberryJuice] Starting output thread!
+[00:09:40] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58513.
+[00:10:31] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58552.
+[00:10:31] [Thread-38/INFO]: [RaspberryJuice] Starting input thread
+[00:10:31] [Thread-39/INFO]: [RaspberryJuice] Starting output thread!
+[00:12:35] [Server thread/INFO]: AdskyDr041la lost connection: Disconnected
+[00:12:35] [Server thread/INFO]: AdskyDr041la left the game
+[00:14:30] [User Authenticator #3/INFO]: UUID of player AdskyDr041la is c8d60efb-f5a9-32c4-ae9b-4cc96afb9d1d
+[00:14:30] [Server thread/INFO]: AdskyDr041la[/127.0.0.1:53470] logged in with entity id 4308 at ([world]-250.96874148094741, 76.5273549027921, -377.2177992517596)
+[00:19:36] [Server thread/INFO]: AdskyDr041la lost connection: Disconnected
+[00:19:36] [Server thread/INFO]: AdskyDr041la left the game
