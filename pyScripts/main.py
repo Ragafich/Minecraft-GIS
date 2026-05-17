@@ -4,8 +4,9 @@ import datetime
 import gspread
 import logging
 
-google_sheet_id = str(input('Введи ID таблицы:\n'))
-google_sheet_list_name = str(input('\nВведи имя нужного листа таблицы:\n'))
+google_sheet_id = str(input('Enter ID spreadsheet:\n'))
+google_sheet_list_name = str(input('\nEnter list name\n'))
+key_path = str(input('\nEnter Google Service Account key path:\n'))
 
 CONFIG = {
     "mc_host": "localhost",
